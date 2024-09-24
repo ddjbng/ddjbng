@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dženis Djuhić</h1>
+<h3 align="center">A backend developer venturing into full-stack development, <br>creating engaging and dynamic web applications</h3>
 
-<img alt= "NASA Picture of Earth" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; height: 350px;>
+<img align="center" alt="(https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_1280.jpg) free pictures for use" src="https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_1280.jpg" style="width: 50%; height: 50%;">
 
-<h3 align="center">A backend developer venturing into full-stack development, creating engaging and dynamic web applications</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
