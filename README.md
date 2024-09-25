@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dženis Djuhić</h1>
 <h3 align="center">A backend developer venturing into full-stack development, <br>creating engaging and dynamic web applications</h3>
 
-<img align="center" alt="(https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_1280.jpg) free pictures for use" src="https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_1280.jpg" style="width: 50%; height: 50%; padding-left: 30%;">
 
 
 
